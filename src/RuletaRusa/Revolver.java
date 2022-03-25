@@ -1,7 +1,7 @@
 package RuletaRusa;
 import java.util.Random;
 public class Revolver {
-
+//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
     //atributos del revolver
     protected int tambor;
     protected int posicion;
